@@ -1,0 +1,1 @@
+// Handles AI image + description display
